@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    background-image:url("https://thumbs.dreamstime.com/b/light-blue-sky-fluffy-clouds-relaxing-background-wallpaper-199566375.jpg");
+    
+}
+#grids{
+    
+    padding-top:100px;
+    
+}
+
+body h1{
+    font-style:italic;
+    font-family:cursive;
+    font-size:50px;
+    color:white;
+}
+#heading{
+
+    font-family:cursive;
+    padding-top:9px;
+    
+}
+#img1{
+    width:500px;
+}
+.flower {
+    width: 200px;
+    height: 200px;
+    padding-top:15px;
+    padding-right:5px;
+    padding-left:5px;
+}
+#slide {
+    width: 200px;
+    height: 200px;
+
+}
+
+#lotus {
+    width: 200px;
+    height: 200px;
+}
+
+.menu {
+    
+    list-style: none;
+    position: fixed;
+    background-color:beige;
+      z-index: 10;
+    border-radius:5px;
+}
+.links{
+    float:left;
+    color:#a200ff;
+    padding-top:0px;
+    padding-bottom:5px;
+    padding-right:9px;
+    padding-left:9px;
+    font-size:30px;
+        
+}.links:hover{
+    background-color:#2200ff;
+}
+
+#rose1{
+    width:200px;
+    height:200px;
+    
+    
+}
+
+
